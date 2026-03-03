@@ -1,6 +1,6 @@
 # SplatZ
 
-A Meta Quest VR application for viewing and interacting with 3D Gaussian Splats using the Meta Spatial SDK.
+A Meta Quest VR application for viewing and interacting with 3D Gaussian Splats with WorldLabs.
 
 ![Splatz World](images/splatz-world.jpg)
 
