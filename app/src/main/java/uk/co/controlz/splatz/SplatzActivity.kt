@@ -178,7 +178,7 @@ class SplatzActivity : ActivityCompat.OnRequestPermissionsResultCallback, AppSys
 
   private fun onSplatLoaded() {
     setSplatVisibility(true)
-    // setPanelVisibility(false)
+    setPanelVisibility(false)
     isSplatMode = true
     // Increment to signal loading complete to UI
     splatLoadComplete.value++
