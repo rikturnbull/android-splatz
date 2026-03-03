@@ -2,6 +2,8 @@
 
 A Meta Quest VR application for viewing and interacting with 3D Gaussian Splats using the Meta Spatial SDK.
 
+![Splatz World](images/splatz-world.jpg)
+
 ## Overview
 
 This application rendere Gaussian Splat (.spz) files in a VR environment on Meta Quest devices. The app features integration with WorldLabs for AI-powered splat generation with voice input capabilities.
@@ -12,6 +14,10 @@ This application rendere Gaussian Splat (.spz) files in a VR environment on Meta
 - **WorldLabs Integration**: Generate new splats via the WorldLabs API directly from the app
 - **Voice Input**: Record audio for voice-based interactions (requires microphone permission)
 - **Locomotion**: Explore splats using VR controllers
+
+| Create | List | View |
+|:------:|:----:|:----:|
+| <img src="images/splatz-create.jpeg" width="250" height="180"> | <img src="images/splatz-list.jpeg" width="250" height="180"> | <img src="images/splatz-view.jpeg" width="250" height="180"> |
 
 ## Requirements
 
