@@ -2,6 +2,7 @@
 
 A Meta Quest VR application for viewing and interacting with 3D Gaussian Splats with WorldLabs.
 
+**Meta Quest VR Rendering**
 ![Splatz World](images/splatz-world.jpg)
 
 ## Overview
